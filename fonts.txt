@@ -1,0 +1,7 @@
+navbar-brand --> font-family: "Playwrite DE Grund", cursive;
+
+nav-link --> font-family: "Ubuntu", sans-serif;
+
+form label --> font-family: "Mukta", sans-serif;
+
+form input --> font-family: "Ubuntu", sans-serif;
